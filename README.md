@@ -1,2 +1,2 @@
-# education
+# EDUCATION
 Repository for education
